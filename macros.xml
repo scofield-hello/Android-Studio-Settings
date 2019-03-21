@@ -1,0 +1,14 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="OptimizeImportsReformatCodeSaveAll">
+      <action id="OptimizeImports" />
+      <action id="ReformatCode" />
+      <action id="SaveAll" />
+    </macro>
+    <macro name="OptimizeImportsReformatDartSaveAll">
+      <action id="OptimizeImports" />
+      <action id="Dart.DartStyle" />
+      <action id="SaveAll" />
+    </macro>
+  </component>
+</application>
