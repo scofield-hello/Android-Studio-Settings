@@ -1,6 +1,6 @@
 <application>
   <component name="ActionMacroManager">
-    <macro name="OptimizeImportsReformatDartSaveAll">
+    <macro name="OptimizeReformatDartSaveAll">
       <action id="OptimizeImports" />
       <action id="Dart.DartStyle" />
       <action id="SaveAll" />
