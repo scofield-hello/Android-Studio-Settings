@@ -4,4 +4,7 @@
     <option name="FONT_FAMILY" value="Sarasa Mono T SC Medium" />
     <option name="SECONDARY_FONT_FAMILY" value="Microsoft YaHei" />
   </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+  </component>
 </application>
