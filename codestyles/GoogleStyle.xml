@@ -74,7 +74,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Dart">
-    <option name="RIGHT_MARGIN" value="100" />
+    <option name="RIGHT_MARGIN" value="120" />
   </codeStyleSettings>
   <codeStyleSettings language="ECMA Script Level 4">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
