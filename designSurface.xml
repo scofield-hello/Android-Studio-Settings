@@ -2,6 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/ASProjects/AndroidUSBCamera-master/app/src/main/res/layout/activity_usbcamera.xml" value="0.17755825734549138" />
         <entry key="..\:/ASProjects/AndroidUSBCamera-master/libusbcamera/src/main/res/layout/dialog_camera.xml" value="0.1" />
         <entry key="..\:/ASProjects/AndroidUSBCamera-master/libusbcamera/src/main/res/layout/listitem_device.xml" value="0.1" />
         <entry key="..\:/ASProjects/cs4printer/app/src/main/res/drawable/header_bg.xml" value="0.22239583333333332" />
