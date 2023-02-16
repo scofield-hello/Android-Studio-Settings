@@ -6,10 +6,6 @@
   <action id="ImportSettings">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
-  <action id="Macro.DartSaveAll">
-    <keyboard-shortcut first-keystroke="ctrl s" />
-  </action>
-  <action id="SaveAll" />
   <action id="UpdateRunningApplication" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
