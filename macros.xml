@@ -1,15 +1,9 @@
 <application>
   <component name="ActionMacroManager">
-    <macro name="OptimizeRearangeReformatSaveAll">
+    <macro name="DartSaveAllCode">
       <action id="OptimizeImports" />
-      <action id="RearrangeCode" />
-      <action id="ReformatCode" />
-      <action id="SaveAll" />
-    </macro>
-    <macro name="DartSaveAll">
-      <action id="OptimizeImports" />
-      <action id="Dart.DartSortMembers" />
       <action id="Dart.DartStyle" />
+      <action id="Dart.DartSortMembers" />
       <action id="SaveAll" />
     </macro>
   </component>
