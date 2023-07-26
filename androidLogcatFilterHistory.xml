@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.example.nid.zkfinger10demo " />
+    <option name="mostRecentlyUsed" value="package:com.chuangdun.flutter.plugin.zktech_example ZkFPMethodHandler" />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.example.nid.zkfinger10demo " />
         <option value="package:mine " />
+        <option value="package:com.chuangdun.flutter.plugin.zktech_example ZkFPMethodHandler" />
         <option value="package:com.chuangdun.flutter.plugin.zktech_example " />
+        <option value="package:com.example.nid.zkfinger10demo " />
       </list>
     </option>
   </component>
