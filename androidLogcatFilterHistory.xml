@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="RammusPushIntentService" />
+    <option name="mostRecentlyUsed" value="MPS:" />
     <option name="nonFavorites">
       <list>
+        <option value="MPS:" />
+        <option value="MPS:OPush" />
+        <option value="OPush" />
+        <option value="MPS:vPush" />
+        <option value="PopupPushActivity" />
         <option value="RammusPushIntentService" />
         <option value="aliba" />
         <option value="Mi" />
