@@ -1,14 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="MPS:" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="PopupPushActivity" />
+        <option value="RammusPushIntentService" />
+        <option value="MPS" />
         <option value="MPS:" />
         <option value="MPS:OPush" />
         <option value="OPush" />
         <option value="MPS:vPush" />
-        <option value="PopupPushActivity" />
-        <option value="RammusPushIntentService" />
         <option value="aliba" />
         <option value="Mi" />
         <option value="package:mine ZkCameraView" />
