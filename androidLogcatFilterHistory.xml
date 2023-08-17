@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="aliba" />
+    <option name="mostRecentlyUsed" value="RammusPushIntentService" />
     <option name="nonFavorites">
       <list>
+        <option value="RammusPushIntentService" />
         <option value="aliba" />
         <option value="Mi" />
         <option value="package:mine ZkCameraView" />
