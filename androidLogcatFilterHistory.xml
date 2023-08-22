@@ -1,0 +1,24 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="" />
+    <option name="nonFavorites">
+      <list>
+        <option value="PopupPushActivity" />
+        <option value="RammusPushIntentService" />
+        <option value="MPS" />
+        <option value="MPS:" />
+        <option value="MPS:OPush" />
+        <option value="OPush" />
+        <option value="MPS:vPush" />
+        <option value="aliba" />
+        <option value="Mi" />
+        <option value="package:mine ZkCameraView" />
+        <option value="package:mine " />
+        <option value="package:mine ZkFPMethodHandler" />
+        <option value="package:com.chuangdun.flutter.plugin.zktech_example ZkFPMethodHandler" />
+        <option value="package:com.chuangdun.flutter.plugin.zktech_example " />
+        <option value="package:com.example.nid.zkfinger10demo " />
+      </list>
+    </option>
+  </component>
+</application>

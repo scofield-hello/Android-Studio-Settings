@@ -3,7 +3,6 @@
     <macro name="DartSaveAllCode">
       <action id="OptimizeImports" />
       <action id="Dart.DartStyle" />
-      <action id="Dart.DartSortMembers" />
       <action id="SaveAll" />
     </macro>
   </component>
