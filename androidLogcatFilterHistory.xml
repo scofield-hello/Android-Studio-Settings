@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="PopupPushActivity" />
         <option value="RammusPushIntentService" />
         <option value="MPS" />
@@ -13,7 +14,6 @@
         <option value="aliba" />
         <option value="Mi" />
         <option value="package:mine ZkCameraView" />
-        <option value="package:mine " />
         <option value="package:mine ZkFPMethodHandler" />
         <option value="package:com.chuangdun.flutter.plugin.zktech_example ZkFPMethodHandler" />
         <option value="package:com.chuangdun.flutter.plugin.zktech_example " />
