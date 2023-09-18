@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="JyCardMethodHandler" />
+    <option name="mostRecentlyUsed" value="JyCameraView" />
     <option name="nonFavorites">
       <list>
+        <option value="JyCameraView" />
+        <option value="JyCamera" />
         <option value="JyCardMethodHandler" />
         <option value="package:mine " />
         <option value="PopupPushActivity" />
