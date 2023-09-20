@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="JyCameraView" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine MyService" />
         <option value="JyCameraView" />
         <option value="JyCamera" />
         <option value="JyCardMethodHandler" />
-        <option value="package:mine " />
         <option value="PopupPushActivity" />
         <option value="RammusPushIntentService" />
         <option value="MPS" />
