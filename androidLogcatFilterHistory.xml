@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="WebSocketManager" />
     <option name="nonFavorites">
       <list>
+        <option value="WebSocketManager" />
+        <option value="Tim" />
         <option value="MyService" />
         <option value="package:mine " />
         <option value="com.chuangdun.littlebird" />
@@ -21,8 +23,6 @@
         <option value="Mi" />
         <option value="package:mine ZkCameraView" />
         <option value="package:mine ZkFPMethodHandler" />
-        <option value="package:com.chuangdun.flutter.plugin.zktech_example ZkFPMethodHandler" />
-        <option value="package:com.chuangdun.flutter.plugin.zktech_example " />
       </list>
     </option>
   </component>
