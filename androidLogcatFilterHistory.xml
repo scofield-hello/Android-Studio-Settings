@@ -1,8 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="WebSocketManager" />
     <option name="nonFavorites">
       <list>
+        <option value="WebSocketManager" />
+        <option value="Tim" />
+        <option value="MyService" />
+        <option value="package:mine " />
+        <option value="com.chuangdun.littlebird" />
+        <option value="package:mine MyService" />
+        <option value="JyCameraView" />
+        <option value="JyCamera" />
+        <option value="JyCardMethodHandler" />
         <option value="PopupPushActivity" />
         <option value="RammusPushIntentService" />
         <option value="MPS" />
@@ -13,11 +22,7 @@
         <option value="aliba" />
         <option value="Mi" />
         <option value="package:mine ZkCameraView" />
-        <option value="package:mine " />
         <option value="package:mine ZkFPMethodHandler" />
-        <option value="package:com.chuangdun.flutter.plugin.zktech_example ZkFPMethodHandler" />
-        <option value="package:com.chuangdun.flutter.plugin.zktech_example " />
-        <option value="package:com.example.nid.zkfinger10demo " />
       </list>
     </option>
   </component>
