@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ocr" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine getView" />
         <option value="ocr" />
         <option value="OCR" />
         <option value="WebSocketManager" />
         <option value="Tim" />
         <option value="MyService" />
-        <option value="package:mine " />
         <option value="com.chuangdun.littlebird" />
         <option value="package:mine MyService" />
         <option value="JyCameraView" />
@@ -22,7 +22,6 @@
         <option value="OPush" />
         <option value="MPS:vPush" />
         <option value="aliba" />
-        <option value="Mi" />
       </list>
     </option>
   </component>
