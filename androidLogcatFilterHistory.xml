@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine VTSdkModule" />
         <option value="package:mine getView" />
         <option value="ocr" />
         <option value="OCR" />
@@ -21,7 +22,6 @@
         <option value="MPS:OPush" />
         <option value="OPush" />
         <option value="MPS:vPush" />
-        <option value="aliba" />
       </list>
     </option>
   </component>
