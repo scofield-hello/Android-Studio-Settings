@@ -1,10 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine SurfaceView" />
+    <option name="mostRecentlyUsed" value="VTVideoSurfaceView" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine SurfaceView" />
+        <option value="VTVideoSurfaceView" />
+        <option value="surfaceDestroyed" />
+        <option value="package:mine Destroy" />
+        <option value="VtSdkModule" />
+        <option value="package:mine VtSdkModule" />
         <option value="package:mine " />
+        <option value="package:mine VTVideoSurfaceView" />
+        <option value="package:mine VTSdkModule" />
+        <option value="package:mine SurfaceView" />
         <option value="package:mine surfaceDestroyed" />
         <option value="package:mine getView" />
         <option value="package:mine VtSDK" />
@@ -13,16 +20,9 @@
         <option value="package:mine VtSdk" />
         <option value="update" />
         <option value="set" />
-        <option value="package:mine VTSdkModule" />
         <option value="ocr" />
         <option value="OCR" />
         <option value="WebSocketManager" />
-        <option value="Tim" />
-        <option value="MyService" />
-        <option value="com.chuangdun.littlebird" />
-        <option value="package:mine MyService" />
-        <option value="JyCameraView" />
-        <option value="JyCamera" />
       </list>
     </option>
   </component>
