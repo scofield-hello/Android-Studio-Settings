@@ -4,9 +4,9 @@
     <option name="nonFavorites">
       <list>
         <option value="VTVideoSurfaceView" />
+        <option value="VtSdkModule" />
         <option value="surfaceDestroyed" />
         <option value="package:mine Destroy" />
-        <option value="VtSdkModule" />
         <option value="package:mine VtSdkModule" />
         <option value="package:mine " />
         <option value="package:mine VTVideoSurfaceView" />
