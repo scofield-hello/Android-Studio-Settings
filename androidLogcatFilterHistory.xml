@@ -3,8 +3,15 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
-        <option value="package:mine VTSdkModule" />
+        <option value="package:mine surfaceDestroyed" />
         <option value="package:mine getView" />
+        <option value="package:mine VtSDK" />
+        <option value="package:mine" />
+        <option value="package:mine Vt" />
+        <option value="package:mine VtSdk" />
+        <option value="update" />
+        <option value="set" />
+        <option value="package:mine VTSdkModule" />
         <option value="ocr" />
         <option value="OCR" />
         <option value="WebSocketManager" />
@@ -15,13 +22,6 @@
         <option value="JyCameraView" />
         <option value="JyCamera" />
         <option value="JyCardMethodHandler" />
-        <option value="PopupPushActivity" />
-        <option value="RammusPushIntentService" />
-        <option value="MPS" />
-        <option value="MPS:" />
-        <option value="MPS:OPush" />
-        <option value="OPush" />
-        <option value="MPS:vPush" />
       </list>
     </option>
   </component>
