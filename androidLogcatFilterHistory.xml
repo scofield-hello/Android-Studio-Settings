@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine SurfaceView" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine SurfaceView" />
         <option value="package:mine " />
         <option value="package:mine surfaceDestroyed" />
         <option value="package:mine getView" />
@@ -21,7 +23,6 @@
         <option value="package:mine MyService" />
         <option value="JyCameraView" />
         <option value="JyCamera" />
-        <option value="JyCardMethodHandler" />
       </list>
     </option>
   </component>
