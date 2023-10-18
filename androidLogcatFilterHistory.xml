@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="VTVideoSurfaceView" />
+        <option value="Vt" />
         <option value="VtSdkModule" />
         <option value="surfaceDestroyed" />
         <option value="package:mine Destroy" />
@@ -22,7 +23,6 @@
         <option value="set" />
         <option value="ocr" />
         <option value="OCR" />
-        <option value="WebSocketManager" />
       </list>
     </option>
   </component>
