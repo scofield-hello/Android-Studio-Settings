@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="level:ERROR" />
     <option name="nonFavorites">
       <list>
+        <option value="level:ERROR" />
         <option value="VTVideoSurfaceView" />
         <option value="VTV" />
         <option value="level:error TAG:" />
@@ -22,7 +23,6 @@
         <option value="package:mine SurfaceView" />
         <option value="package:mine surfaceDestroyed" />
         <option value="package:mine getView" />
-        <option value="package:mine VtSDK" />
       </list>
     </option>
   </component>
