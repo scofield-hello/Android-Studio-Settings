@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="VTVideoSurfaceView" />
+    <option name="mostRecentlyUsed" value="level:error package=:com.chuangdun.borderkeeper " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error package=:com.chuangdun.borderkeeper " />
+        <option value="level:error -package:com.chuangdun.borderkeeper " />
+        <option value="level:error " />
         <option value="VTVideoSurfaceView" />
         <option value="Vt" />
         <option value="VtSdkModule" />
@@ -20,9 +23,6 @@
         <option value="package:mine Vt" />
         <option value="package:mine VtSdk" />
         <option value="update" />
-        <option value="set" />
-        <option value="ocr" />
-        <option value="OCR" />
       </list>
     </option>
   </component>
