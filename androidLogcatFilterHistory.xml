@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:ERROR" />
+    <option name="mostRecentlyUsed" value="VtSdkModule" />
     <option name="nonFavorites">
       <list>
+        <option value="VtSdkModule" />
+        <option value="TAG=:VtSdkModule" />
+        <option value="TAG:VtSdkModule" />
+        <option value="level:error" />
+        <option value="level:error message:border" />
+        <option value="level:error " />
+        <option value="package:chuangdun" />
+        <option value="package=:com.chuangdun" />
         <option value="level:ERROR" />
         <option value="VTVideoSurfaceView" />
         <option value="VTV" />
         <option value="level:error TAG:" />
-        <option value="level:error " />
         <option value="level:error package=:com.chuangdun.borderkeeper" />
-        <option value="level:error" />
         <option value="level:error package=:com.chuangdun.borderkeeper " />
         <option value="level:error -package:com.chuangdun.borderkeeper " />
         <option value="Vt" />
-        <option value="VtSdkModule" />
         <option value="surfaceDestroyed" />
         <option value="package:mine Destroy" />
         <option value="package:mine VtSdkModule" />
         <option value="package:mine " />
-        <option value="package:mine VTVideoSurfaceView" />
-        <option value="package:mine VTSdkModule" />
-        <option value="package:mine SurfaceView" />
-        <option value="package:mine surfaceDestroyed" />
-        <option value="package:mine getView" />
       </list>
     </option>
   </component>
