@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="VtSdkModule" />
+    <option name="mostRecentlyUsed" value="Error" />
     <option name="nonFavorites">
       <list>
+        <option value="Error" />
         <option value="VtSdkModule" />
         <option value="TAG=:VtSdkModule" />
         <option value="TAG:VtSdkModule" />
@@ -22,7 +23,6 @@
         <option value="surfaceDestroyed" />
         <option value="package:mine Destroy" />
         <option value="package:mine VtSdkModule" />
-        <option value="package:mine " />
       </list>
     </option>
   </component>
