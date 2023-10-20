@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="Error" />
         <option value="ERROR" />
         <option value="VtSdkModule" />
@@ -22,7 +23,6 @@
         <option value="level:error -package:com.chuangdun.borderkeeper " />
         <option value="Vt" />
         <option value="surfaceDestroyed" />
-        <option value="package:mine Destroy" />
       </list>
     </option>
   </component>
