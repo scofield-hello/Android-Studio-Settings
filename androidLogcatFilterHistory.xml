@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="Mi" />
     <option name="nonFavorites">
       <list>
+        <option value="Mi" />
+        <option value="com.chuangdun.borderkeeper" />
+        <option value="package" />
+        <option value="package=:com.chuangdun.borderkeeper" />
+        <option value="com.chuangdun" />
         <option value="package:mine " />
         <option value="Error" />
         <option value="ERROR" />
@@ -18,11 +23,6 @@
         <option value="VTVideoSurfaceView" />
         <option value="VTV" />
         <option value="level:error TAG:" />
-        <option value="level:error package=:com.chuangdun.borderkeeper" />
-        <option value="level:error package=:com.chuangdun.borderkeeper " />
-        <option value="level:error -package:com.chuangdun.borderkeeper " />
-        <option value="Vt" />
-        <option value="surfaceDestroyed" />
       </list>
     </option>
   </component>
