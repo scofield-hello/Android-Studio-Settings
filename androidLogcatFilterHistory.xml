@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="com.chuangdun" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="LEVEL:ERROR " />
         <option value="com.chuangdun" />
         <option value="Mi" />
         <option value="com.chuangdun.borderkeeper" />
@@ -22,7 +23,6 @@
         <option value="level:ERROR" />
         <option value="VTVideoSurfaceView" />
         <option value="VTV" />
-        <option value="level:error TAG:" />
       </list>
     </option>
   </component>
