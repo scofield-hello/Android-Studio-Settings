@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ContactAppContentHelper" />
+    <option name="mostRecentlyUsed" value="tag:SyncContactService" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:SyncContactService" />
         <option value="package:mine " />
         <option value="ContactAppContentHelper" />
         <option value="SyncContactService" />
@@ -22,7 +23,6 @@
         <option value="level:error " />
         <option value="package:chuangdun" />
         <option value="package=:com.chuangdun" />
-        <option value="level:ERROR" />
       </list>
     </option>
   </component>
