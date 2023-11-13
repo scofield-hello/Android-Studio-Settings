@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="ContactAppContentHelper" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="ContactAppContentHelper" />
         <option value="SyncContactService" />
         <option value="LEVEL:ERROR " />
@@ -11,7 +12,6 @@
         <option value="com.chuangdun.borderkeeper" />
         <option value="package" />
         <option value="package=:com.chuangdun.borderkeeper" />
-        <option value="package:mine " />
         <option value="Error" />
         <option value="ERROR" />
         <option value="VtSdkModule" />
