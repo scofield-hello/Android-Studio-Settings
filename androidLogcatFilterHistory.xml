@@ -1,12 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:SyncContactService" />
+    <option name="mostRecentlyUsed" value="ContactSyncTask" />
     <option name="nonFavorites">
       <list>
+        <option value="ContactSyncTask" />
+        <option value="ContactBackupTask" />
+        <option value="ContactLoadTask" />
+        <option value="SyncContactService" />
+        <option value="tag:" />
         <option value="tag:SyncContactService" />
         <option value="package:mine " />
         <option value="ContactAppContentHelper" />
-        <option value="SyncContactService" />
         <option value="LEVEL:ERROR " />
         <option value="com.chuangdun" />
         <option value="Mi" />
@@ -19,10 +23,6 @@
         <option value="TAG=:VtSdkModule" />
         <option value="TAG:VtSdkModule" />
         <option value="level:error" />
-        <option value="level:error message:border" />
-        <option value="level:error " />
-        <option value="package:chuangdun" />
-        <option value="package=:com.chuangdun" />
       </list>
     </option>
   </component>
