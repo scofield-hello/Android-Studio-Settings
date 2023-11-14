@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:SyncContactService" />
+    <option name="mostRecentlyUsed" value="SyncContactService" />
     <option name="nonFavorites">
       <list>
+        <option value="SyncContactService" />
         <option value="package:mine " />
         <option value="tag:SyncContactService" />
-        <option value="SyncContactService" />
         <option value="ContactCleanTask" />
         <option value="ContactSyncTask" />
         <option value="ContactBackupTask" />
