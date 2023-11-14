@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="tag:SyncContactService" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="tag:SyncContactService" />
         <option value="SyncContactService" />
         <option value="ContactCleanTask" />
@@ -10,7 +11,6 @@
         <option value="ContactBackupTask" />
         <option value="ContactLoadTask" />
         <option value="tag:" />
-        <option value="package:mine " />
         <option value="ContactAppContentHelper" />
         <option value="LEVEL:ERROR " />
         <option value="com.chuangdun" />
