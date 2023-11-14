@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="SyncContactService" />
+    <option name="mostRecentlyUsed" value="ContactCleanTask" />
     <option name="nonFavorites">
       <list>
+        <option value="ContactCleanTask" />
         <option value="SyncContactService" />
         <option value="ContactSyncTask" />
         <option value="ContactBackupTask" />
@@ -22,7 +23,6 @@
         <option value="VtSdkModule" />
         <option value="TAG=:VtSdkModule" />
         <option value="TAG:VtSdkModule" />
-        <option value="level:error" />
       </list>
     </option>
   </component>
