@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="SyncContactService" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="Starnet" />
+        <option value="tag:StarnetPlugin" />
         <option value="tag:SyncContactService" />
         <option value="SyncContactService" />
         <option value="package:mine " />
@@ -21,8 +23,6 @@
         <option value="Error" />
         <option value="ERROR" />
         <option value="VtSdkModule" />
-        <option value="TAG=:VtSdkModule" />
-        <option value="TAG:VtSdkModule" />
       </list>
     </option>
   </component>
