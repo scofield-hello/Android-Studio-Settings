@@ -3,9 +3,9 @@
     <option name="mostRecentlyUsed" value="SyncContactService" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:SyncContactService" />
         <option value="SyncContactService" />
         <option value="package:mine " />
-        <option value="tag:SyncContactService" />
         <option value="ContactCleanTask" />
         <option value="ContactSyncTask" />
         <option value="ContactBackupTask" />
