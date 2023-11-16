@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="tag:StarnetPlugin" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:StarnetPlugin" />
         <option value="通讯录" />
         <option value="TAG:StarnetPlugin" />
         <option value="StarnetPlugin" />
         <option value="Starnet" />
-        <option value="tag:StarnetPlugin" />
         <option value="tag:SyncContactService" />
         <option value="SyncContactService" />
         <option value="package:mine " />
