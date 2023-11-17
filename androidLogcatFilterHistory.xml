@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="UploadTask" />
     <option name="nonFavorites">
       <list>
+        <option value="UploadTask" />
+        <option value="doHttpsConnection" />
         <option value="package:mine " />
         <option value="tag:StarnetPlugin" />
         <option value="通讯录" />
@@ -21,8 +23,6 @@
         <option value="com.chuangdun" />
         <option value="Mi" />
         <option value="com.chuangdun.borderkeeper" />
-        <option value="package" />
-        <option value="package=:com.chuangdun.borderkeeper" />
       </list>
     </option>
   </component>
