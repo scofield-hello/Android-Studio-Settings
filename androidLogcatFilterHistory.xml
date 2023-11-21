@@ -1,11 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="UploadTask" />
         <option value="doHttpsConnection" />
-        <option value="package:mine " />
         <option value="tag:StarnetPlugin" />
         <option value="通讯录" />
         <option value="TAG:StarnetPlugin" />
