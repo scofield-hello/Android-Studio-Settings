@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="tag:TrackerPlugin" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TrackerPlugin" />
         <option value="package:mine " />
         <option value="UploadTask" />
         <option value="doHttpsConnection" />
@@ -21,7 +23,6 @@
         <option value="LEVEL:ERROR " />
         <option value="com.chuangdun" />
         <option value="Mi" />
-        <option value="com.chuangdun.borderkeeper" />
       </list>
     </option>
   </component>
