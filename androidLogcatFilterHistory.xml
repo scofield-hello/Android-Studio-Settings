@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:TrackerPlugin" />
+    <option name="mostRecentlyUsed" value="StarnetPlugin" />
     <option name="nonFavorites">
       <list>
+        <option value="StarnetPlugin" />
         <option value="tag:TrackerPlugin" />
         <option value="package:mine " />
         <option value="UploadTask" />
@@ -10,7 +11,6 @@
         <option value="tag:StarnetPlugin" />
         <option value="通讯录" />
         <option value="TAG:StarnetPlugin" />
-        <option value="StarnetPlugin" />
         <option value="Starnet" />
         <option value="tag:SyncContactService" />
         <option value="SyncContactService" />
