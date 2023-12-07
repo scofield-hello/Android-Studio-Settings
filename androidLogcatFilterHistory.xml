@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="JyFPMethodHandler" />
     <option name="nonFavorites">
       <list>
+        <option value="JyFPMethodHandler" />
+        <option value="JyCameraView" />
         <option value="JyCamera" />
         <option value="StarnetPlugin" />
         <option value="tag:TrackerPlugin" />
@@ -21,8 +23,6 @@
         <option value="ContactLoadTask" />
         <option value="tag:" />
         <option value="ContactAppContentHelper" />
-        <option value="LEVEL:ERROR " />
-        <option value="com.chuangdun" />
       </list>
     </option>
   </component>
