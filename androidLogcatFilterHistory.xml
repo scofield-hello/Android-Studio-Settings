@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="JyFPMethodHandler" />
+    <option name="mostRecentlyUsed" value="位置" />
     <option name="nonFavorites">
       <list>
+        <option value="位置" />
         <option value="JyFPMethodHandler" />
         <option value="JyCameraView" />
         <option value="JyCamera" />
@@ -22,7 +23,6 @@
         <option value="ContactBackupTask" />
         <option value="ContactLoadTask" />
         <option value="tag:" />
-        <option value="ContactAppContentHelper" />
       </list>
     </option>
   </component>
