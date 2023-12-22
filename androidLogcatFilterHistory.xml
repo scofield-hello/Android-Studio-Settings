@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="LEVEL:ERROR " />
         <option value="位置" />
         <option value="JyFPMethodHandler" />
         <option value="JyCameraView" />
@@ -22,7 +23,6 @@
         <option value="ContactSyncTask" />
         <option value="ContactBackupTask" />
         <option value="ContactLoadTask" />
-        <option value="tag:" />
       </list>
     </option>
   </component>
