@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="TAG=:Tracker" />
+    <option name="mostRecentlyUsed" value="位置" />
     <option name="nonFavorites">
       <list>
+        <option value="位置" />
         <option value="TAG=:Tracker" />
         <option value="Tracker" />
         <option value="package=:com.chuangdun.borderkeeper " />
@@ -11,7 +12,6 @@
         <option value="tracker" />
         <option value="level:error " />
         <option value="LEVEL:ERROR " />
-        <option value="位置" />
         <option value="JyFPMethodHandler" />
         <option value="JyCameraView" />
         <option value="JyCamera" />
