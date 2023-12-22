@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package=:com.chuangdun.borderkeeper " />
+    <option name="mostRecentlyUsed" value="TAG=:Tracker" />
     <option name="nonFavorites">
       <list>
+        <option value="TAG=:Tracker" />
+        <option value="Tracker" />
         <option value="package=:com.chuangdun.borderkeeper " />
         <option value="LEVEL:DEBUG " />
-        <option value="Tracker" />
         <option value="level:debug " />
         <option value="tracker" />
         <option value="level:error " />
@@ -22,7 +23,6 @@
         <option value="tag:StarnetPlugin" />
         <option value="通讯录" />
         <option value="TAG:StarnetPlugin" />
-        <option value="Starnet" />
       </list>
     </option>
   </component>
