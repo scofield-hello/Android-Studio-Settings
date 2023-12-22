@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="Tracker" />
     <option name="nonFavorites">
       <list>
+        <option value="Tracker" />
+        <option value="level:debug " />
+        <option value="tracker" />
+        <option value="level:error " />
         <option value="LEVEL:ERROR " />
         <option value="位置" />
         <option value="JyFPMethodHandler" />
@@ -19,10 +23,6 @@
         <option value="Starnet" />
         <option value="tag:SyncContactService" />
         <option value="SyncContactService" />
-        <option value="ContactCleanTask" />
-        <option value="ContactSyncTask" />
-        <option value="ContactBackupTask" />
-        <option value="ContactLoadTask" />
       </list>
     </option>
   </component>
