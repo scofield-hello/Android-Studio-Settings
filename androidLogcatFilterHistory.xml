@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="Tracker" />
         <option value="轨迹" />
         <option value="level:info " />
@@ -21,7 +21,6 @@
         <option value="JyCamera" />
         <option value="StarnetPlugin" />
         <option value="tag:TrackerPlugin" />
-        <option value="package:mine " />
         <option value="UploadTask" />
       </list>
     </option>
