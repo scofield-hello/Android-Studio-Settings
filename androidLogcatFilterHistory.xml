@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="Heartbeat" />
         <option value="Tracker" />
         <option value="轨迹" />
         <option value="level:info " />
@@ -21,7 +22,6 @@
         <option value="JyCamera" />
         <option value="StarnetPlugin" />
         <option value="tag:TrackerPlugin" />
-        <option value="UploadTask" />
       </list>
     </option>
   </component>
