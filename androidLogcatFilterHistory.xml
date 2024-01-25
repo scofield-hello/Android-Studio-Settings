@@ -1,9 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="Heartbeat" />
     <option name="nonFavorites">
       <list>
         <option value="Heartbeat" />
+        <option value="心跳" />
+        <option value="Heartb" />
         <option value="package:mine " />
         <option value="Tracker" />
         <option value="轨迹" />
@@ -21,8 +23,6 @@
         <option value="JyFPMethodHandler" />
         <option value="JyCameraView" />
         <option value="JyCamera" />
-        <option value="StarnetPlugin" />
-        <option value="tag:TrackerPlugin" />
       </list>
     </option>
   </component>
