@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Heartbeat" />
+    <option name="mostRecentlyUsed" value="JyCameraView" />
     <option name="nonFavorites">
       <list>
+        <option value="JyCameraView" />
         <option value="package:mine " />
         <option value="Heartbeat" />
         <option value="心跳" />
@@ -21,7 +22,6 @@
         <option value="level:error " />
         <option value="LEVEL:ERROR " />
         <option value="JyFPMethodHandler" />
-        <option value="JyCameraView" />
         <option value="JyCamera" />
       </list>
     </option>
