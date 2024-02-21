@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="LEVEL:ERROR " />
         <option value="JyCameraView" />
         <option value="package:mine " />
         <option value="Heartbeat" />
@@ -20,7 +21,6 @@
         <option value="level:debug " />
         <option value="tracker" />
         <option value="level:error " />
-        <option value="LEVEL:ERROR " />
         <option value="JyFPMethodHandler" />
         <option value="JyCamera" />
       </list>
