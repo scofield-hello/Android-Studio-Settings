@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="borderkeeper" />
     <option name="nonFavorites">
       <list>
+        <option value="borderkeeper" />
         <option value="package~:com.chuangdun.borderkeeper " />
         <option value="package=:com.chuangdun.borderkeeper" />
         <option value="package=:com.chuangdun.borderkeeper " />
@@ -22,7 +23,6 @@
         <option value="TAG=:Tracker" />
         <option value="LEVEL:DEBUG " />
         <option value="level:debug " />
-        <option value="tracker" />
       </list>
     </option>
   </component>
