@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:warn " />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="LEVEL:ERROR " />
         <option value="level:warn " />
         <option value="borderkeeper" />
-        <option value="LEVEL:ERROR " />
         <option value="package=:com.chuangdun.borderkeeper" />
         <option value="package~:com.chuangdun.borderkeeper " />
         <option value="package=:com.chuangdun.borderkeeper " />
