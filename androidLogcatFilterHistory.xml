@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine FaceInitializer" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine FaceInitializer" />
         <option value="package:mine" />
         <option value="package:mine Face" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="Heartbeat" />
         <option value="Heartb" />
         <option value="轨迹" />
-        <option value="level:info " />
       </list>
     </option>
   </component>
