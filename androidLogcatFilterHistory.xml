@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine FaceInitializer" />
+    <option name="mostRecentlyUsed" value="package:mine 彩色相机预览" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine 彩色相机预览" />
+        <option value="package:mine CameraId" />
+        <option value="package:mine id" />
         <option value="package:mine FaceInitializer" />
         <option value="package:mine" />
         <option value="package:mine Face" />
@@ -20,9 +23,6 @@
         <option value="package:com.chuangdun.borderkeeper " />
         <option value="package:chuangdun" />
         <option value="JyCameraView" />
-        <option value="Heartbeat" />
-        <option value="Heartb" />
-        <option value="轨迹" />
       </list>
     </option>
   </component>
