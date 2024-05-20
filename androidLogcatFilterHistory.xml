@@ -1,9 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine Face" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Face" />
         <option value="package:mine " />
+        <option value="package:mine IFaceComponent" />
         <option value="JyFaceDetectView" />
         <option value="LEVEL:ERROR " />
         <option value="心跳" />
@@ -21,8 +23,6 @@
         <option value="轨迹" />
         <option value="level:info " />
         <option value="正在启动轨迹上报服务" />
-        <option value="位置" />
-        <option value="TAG=:Tracker" />
       </list>
     </option>
   </component>
