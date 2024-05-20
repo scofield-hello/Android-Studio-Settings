@@ -1,15 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine 彩色相机预览" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine 彩色相机预览" />
         <option value="package:mine CameraId" />
         <option value="package:mine id" />
         <option value="package:mine FaceInitializer" />
         <option value="package:mine" />
         <option value="package:mine Face" />
-        <option value="package:mine " />
         <option value="package:mine IFaceComponent" />
         <option value="JyFaceDetectView" />
         <option value="LEVEL:ERROR " />
