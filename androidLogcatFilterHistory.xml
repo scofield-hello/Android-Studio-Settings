@@ -2,6 +2,7 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
+        <option value="Tracker" />
         <option value="package:mine " />
         <option value="package:mine 彩色相机预览" />
         <option value="package:mine CameraId" />
@@ -14,7 +15,6 @@
         <option value="LEVEL:ERROR " />
         <option value="心跳" />
         <option value="level:warn " />
-        <option value="Tracker" />
         <option value="borderkeeper" />
         <option value="package=:com.chuangdun.borderkeeper" />
         <option value="package~:com.chuangdun.borderkeeper " />
