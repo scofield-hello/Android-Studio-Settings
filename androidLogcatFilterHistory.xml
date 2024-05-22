@@ -1,10 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="MyApplication" />
     <option name="nonFavorites">
       <list>
-        <option value="Tracker" />
+        <option value="MyApplication" />
+        <option value="FaceInitializer" />
         <option value="package:mine " />
+        <option value="Tracker" />
         <option value="package:mine 彩色相机预览" />
         <option value="package:mine CameraId" />
         <option value="package:mine id" />
@@ -21,8 +23,6 @@
         <option value="package~:com.chuangdun.borderkeeper " />
         <option value="package=:com.chuangdun.borderkeeper " />
         <option value="package:com.chuangdun.borderkeeper " />
-        <option value="package:chuangdun" />
-        <option value="JyCameraView" />
       </list>
     </option>
   </component>
