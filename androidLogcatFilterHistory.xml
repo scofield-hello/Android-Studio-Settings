@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="MainActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="MainActivity" />
+        <option value="Main" />
         <option value="package:mine " />
         <option value="Location" />
         <option value="MyApplication" />
@@ -21,8 +23,6 @@
         <option value="level:warn " />
         <option value="borderkeeper" />
         <option value="package=:com.chuangdun.borderkeeper" />
-        <option value="package~:com.chuangdun.borderkeeper " />
-        <option value="package=:com.chuangdun.borderkeeper " />
       </list>
     </option>
   </component>
