@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="MainActivity" />
+    <option name="mostRecentlyUsed" value="JyFaceDetectView" />
     <option name="nonFavorites">
       <list>
+        <option value="JyFaceDetectView" />
+        <option value="package:mine " />
         <option value="MainActivity" />
         <option value="Main" />
-        <option value="package:mine " />
         <option value="Location" />
         <option value="MyApplication" />
         <option value="FaceInitializer" />
@@ -17,7 +18,6 @@
         <option value="package:mine" />
         <option value="package:mine Face" />
         <option value="package:mine IFaceComponent" />
-        <option value="JyFaceDetectView" />
         <option value="LEVEL:ERROR " />
         <option value="心跳" />
         <option value="level:warn " />
