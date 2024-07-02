@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="JY02K0030009" />
+          </Key>
+        </key>
+        <name value="QUALCOMM M80" />
+        <target value="Android 9.0" />
+        <api value="androidversion:28:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="696658d6" />
           </Key>
         </key>
@@ -22,17 +33,6 @@
         <name value="rockchip Z20" />
         <target value="Android 7.1.1" />
         <api value="androidversion:25:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="JY02K0030009" />
-          </Key>
-        </key>
-        <name value="QUALCOMM M80" />
-        <target value="Android 9.0" />
-        <api value="androidversion:28:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
