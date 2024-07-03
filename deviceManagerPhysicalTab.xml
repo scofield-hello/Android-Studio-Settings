@@ -8,9 +8,8 @@
             <value value="JY02K0030009" />
           </Key>
         </key>
-        <name value="QUALCOMM M80" />
-        <target value="Android 9.0" />
-        <api value="androidversion:28:null:null:true" />
+        <name value="Device" />
+        <target value="Android 1.0" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
