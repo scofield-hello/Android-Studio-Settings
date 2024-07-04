@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="JyCameraView" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="JyFaceDetectView" />
         <option value="JyCameraView" />
         <option value="JyCamera" />
-        <option value="JyFaceDetectView" />
         <option value="package:mine " />
         <option value="MainActivity" />
         <option value="Main" />
