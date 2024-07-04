@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="JyFaceDetectView" />
+    <option name="mostRecentlyUsed" value="JyCameraView" />
     <option name="nonFavorites">
       <list>
+        <option value="JyCameraView" />
+        <option value="JyCamera" />
         <option value="JyFaceDetectView" />
         <option value="package:mine " />
         <option value="MainActivity" />
@@ -21,8 +23,6 @@
         <option value="LEVEL:ERROR " />
         <option value="心跳" />
         <option value="level:warn " />
-        <option value="borderkeeper" />
-        <option value="package=:com.chuangdun.borderkeeper" />
       </list>
     </option>
   </component>
