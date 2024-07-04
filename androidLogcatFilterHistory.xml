@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="JyCardMethodHandler" />
     <option name="nonFavorites">
       <list>
+        <option value="JyCardMethodHandler" />
         <option value="JyFaceDetectView" />
         <option value="JyCameraView" />
         <option value="JyCamera" />
@@ -22,7 +23,6 @@
         <option value="package:mine IFaceComponent" />
         <option value="LEVEL:ERROR " />
         <option value="心跳" />
-        <option value="level:warn " />
       </list>
     </option>
   </component>
