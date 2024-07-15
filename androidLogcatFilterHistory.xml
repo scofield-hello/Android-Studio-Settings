@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="KeyCode" />
+    <option name="mostRecentlyUsed" value="Broadcast" />
     <option name="nonFavorites">
       <list>
+        <option value="Broadcast" />
+        <option value="Hand" />
         <option value="KeyCode" />
         <option value="CallBegin" />
         <option value="JyCardMethodHandler" />
@@ -21,8 +23,6 @@
         <option value="package:mine id" />
         <option value="package:mine FaceInitializer" />
         <option value="package:mine" />
-        <option value="package:mine Face" />
-        <option value="package:mine IFaceComponent" />
       </list>
     </option>
   </component>
