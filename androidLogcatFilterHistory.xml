@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="model" />
     <option name="nonFavorites">
       <list>
+        <option value="model" />
         <option value="CrashReport" />
         <option value="Broadcast" />
         <option value="Hand" />
@@ -22,7 +23,6 @@
         <option value="package:mine 彩色相机预览" />
         <option value="package:mine CameraId" />
         <option value="package:mine id" />
-        <option value="package:mine FaceInitializer" />
       </list>
     </option>
   </component>
