@@ -5,6 +5,28 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="696658d6" />
+          </Key>
+        </key>
+        <name value="OnePlus PHB110" />
+        <target value="Android API 34" />
+        <api value="androidversion:34:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="CD20K0000002" />
+          </Key>
+        </key>
+        <name value="QUALCOMM M80" />
+        <target value="Android 9.0" />
+        <api value="androidversion:28:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="93a033e6" />
           </Key>
         </key>
@@ -21,17 +43,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="696658d6" />
-          </Key>
-        </key>
-        <name value="OnePlus PHB110" />
-        <target value="Android API 34" />
-        <api value="androidversion:34:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
