@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="XfVoicePlugin" />
     <option name="nonFavorites">
       <list>
+        <option value="XfVoicePlugin" />
+        <option value="录音" />
         <option value="package~:com.chuangdun.borderkeeper " />
         <option value="Bugl" />
         <option value="Crash" />
@@ -21,8 +23,6 @@
         <option value="package:mine " />
         <option value="MainActivity" />
         <option value="Main" />
-        <option value="Location" />
-        <option value="MyApplication" />
       </list>
     </option>
   </component>
