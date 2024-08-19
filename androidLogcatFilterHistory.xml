@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package~:com.chuangdun.borderkeeper " />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="Tracker" />
+        <option value="Gps" />
         <option value="package~:com.chuangdun.borderkeeper " />
         <option value="package:mine " />
         <option value="level:error " />
@@ -21,8 +23,6 @@
         <option value="JyCardMethodHandler" />
         <option value="JyFaceDetectView" />
         <option value="JyCameraView" />
-        <option value="JyCamera" />
-        <option value="MainActivity" />
       </list>
     </option>
   </component>
