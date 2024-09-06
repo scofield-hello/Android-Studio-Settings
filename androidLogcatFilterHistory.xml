@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="com.chuangdun" />
     <option name="nonFavorites">
       <list>
+        <option value="com.chuangdun" />
         <option value="level:error " />
         <option value="MainActivity" />
         <option value="package:mine MainActivity" />
@@ -22,7 +23,6 @@
         <option value="Hand" />
         <option value="KeyCode" />
         <option value="CallBegin" />
-        <option value="JyCardMethodHandler" />
       </list>
     </option>
   </component>
