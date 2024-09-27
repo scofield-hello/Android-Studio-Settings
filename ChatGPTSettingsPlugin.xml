@@ -22,6 +22,10 @@
         </ChatGPTContentState>
       </list>
     </contentStatesNoChatGPT>
+    <option name="easyCodeAccessToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzI3NDMyODY3LCJpYXQiOjE3Mjc0MzE5NjcsImp0aSI6ImU4NjQ5YWIyOWVlYTQ5NWRhYzk5ZWJmOWNjNzExOWRhIiwidXNlcl9pZCI6Njk5NDMxfQ.qToL9jKrsO6EKbq_6L51Ks1HpORz__gIMIjnM650mVY" />
+    <option name="easyCodeRefreshToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTcyODY0MTU2NywiaWF0IjoxNzI3NDMxOTY3LCJqdGkiOiI3NjE4NDhiYzA1NGY0NTkwYjE4ZDZiZDVmYzQ4MTY1YiIsInVzZXJfaWQiOjY5OTQzMX0.Kza6lARibYHg_nozq7tC52Sc09LBXHxNsCgjcdVaeOs" />
+    <option name="easyCodeUserEmail" value="wecoding@126.com" />
+    <option name="showEasyCodeConversationList" value="false" />
     <option name="showGPT35TurboConversationList" value="false" />
     <option name="enableCustomizeGPT35TurboModel" value="true" />
     <option name="customizeGPT35TurboModel" value="gpt-4o-mini" />
