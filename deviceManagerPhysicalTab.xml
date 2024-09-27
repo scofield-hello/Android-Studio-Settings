@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="93a033e6" />
+          </Key>
+        </key>
+        <name value="Xiaomi MI 8" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="696658d6" />
           </Key>
         </key>
@@ -22,17 +33,6 @@
         <name value="QUALCOMM M80" />
         <target value="Android 9.0" />
         <api value="androidversion:28:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="93a033e6" />
-          </Key>
-        </key>
-        <name value="Xiaomi MI 8" />
-        <target value="Android 10.0" />
-        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
