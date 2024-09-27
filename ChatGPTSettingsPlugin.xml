@@ -2,9 +2,13 @@
   <component name="com.obiscr.chatgpt.settings.OpenAISettingsState">
     <option name="apiKey" value="sk-0pOFxJt7JJEmyNnY77CfB09a91034a9a81217683C2Fe41Ce" />
     <option name="gpt35Model" value="gpt-3.5-turbo" />
+    <option name="enableContext" value="true" />
+    <option name="enableTokenConsumption" value="true" />
+    <option name="enableGPT35StreamResponse" value="true" />
     <option name="gpt35TurboUrl" value="https://api.wlai.vip/v1/chat/completions" />
     <option name="enableCustomizeGpt35TurboUrl" value="true" />
-    <option name="gpt35RoleText" value="developer" />
+    <option name="gpt35RoleText" value="assistant" />
+    <option name="gpt35TurboExportPath" value="C:\Users\Nickey\intellij-chatgpt\export\gpt-4o-mini" />
     <contentStatesNoChatGPT>
       <list>
         <ChatGPTContentState>
@@ -19,5 +23,7 @@
       </list>
     </contentStatesNoChatGPT>
     <option name="showGPT35TurboConversationList" value="false" />
+    <option name="enableCustomizeGPT35TurboModel" value="true" />
+    <option name="customizeGPT35TurboModel" value="gpt-4o-mini" />
   </component>
 </application>
