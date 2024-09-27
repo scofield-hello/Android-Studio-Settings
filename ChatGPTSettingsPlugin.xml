@@ -13,5 +13,6 @@
         </ChatGPTContentState>
       </list>
     </contentStatesNoChatGPT>
+    <option name="showGPT35TurboConversationList" value="false" />
   </component>
 </application>
