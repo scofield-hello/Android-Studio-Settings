@@ -1,5 +1,10 @@
 <application>
   <component name="com.obiscr.chatgpt.settings.OpenAISettingsState">
+    <option name="apiKey" value="sk-0pOFxJt7JJEmyNnY77CfB09a91034a9a81217683C2Fe41Ce" />
+    <option name="gpt35Model" value="gpt-3.5-turbo" />
+    <option name="gpt35TurboUrl" value="https://api.wlai.vip/v1/chat/completions" />
+    <option name="enableCustomizeGpt35TurboUrl" value="true" />
+    <option name="gpt35RoleText" value="developer" />
     <contentStatesNoChatGPT>
       <list>
         <ChatGPTContentState>
