@@ -22,8 +22,8 @@
         </ChatGPTContentState>
       </list>
     </contentStatesNoChatGPT>
-    <option name="easyCodeAccessToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzI4NTQ3NDg0LCJpYXQiOjE3Mjc1Nzc3MzksImp0aSI6IjNiNGFmMzBkNDI4ZTQ2MWU4NTMxZjI0NmUwZmY5MmM2IiwidXNlcl9pZCI6Njk5NDMxfQ.ozMtWKUCPalm9bH5X6GCYNNt3OafvVgiJt1q2r__ERw" />
-    <option name="easyCodeRefreshToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTcyOTc1NjE4NCwiaWF0IjoxNzI4NTQ2NTg0LCJqdGkiOiI5NjE3YWM2Mjc1NmI0Yzk4YWFmZmZkYWFjMTU0NTMwZiIsInVzZXJfaWQiOjY5OTQzMX0.CHrnRycmGX8ti6tGYaPp927KP4it1aBbA2QxmmKE3ho" />
+    <option name="easyCodeAccessToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzI4NjA5OTI5LCJpYXQiOjE3Mjg1NDY1ODQsImp0aSI6IjJmMmIxZDM5NjlmNzQ2OWU4ODg0ZDk0N2E3YjE2NzU4IiwidXNlcl9pZCI6Njk5NDMxfQ.PuJACX6KUdXVGNLA3aZx5BkGZLHGaVq3eITYVDchVtU" />
+    <option name="easyCodeRefreshToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTcyOTgxODYyOSwiaWF0IjoxNzI4NjA5MDI5LCJqdGkiOiJhYzBkYzAyOGMyODI0YmRkODQ1Y2Y0NTBlNjVjMDUwZCIsInVzZXJfaWQiOjY5OTQzMX0.0X75Us7kKUukM43gGqOBvLZFUTGARZwZsARLGYW5yR0" />
     <option name="easyCodeUserEmail" value="wecoding@126.com" />
     <option name="showEasyCodeConversationList" value="false" />
     <option name="showGPT35TurboConversationList" value="false" />
