@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="CD2030030072" />
+          </Key>
+        </key>
+        <name value="rockchip M70" />
+        <target value="Android 7.1.1" />
+        <api value="androidversion:25:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="93a033e6" />
           </Key>
         </key>
@@ -76,17 +87,6 @@
         <name value="rockchip rk3288" />
         <target value="Android 9.0" />
         <api value="androidversion:28:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="CD2030030072" />
-          </Key>
-        </key>
-        <name value="rockchip M70" />
-        <target value="Android 7.1.1" />
-        <api value="androidversion:25:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
