@@ -26,7 +26,6 @@
     <option name="easyCodeRefreshToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTcyOTgyODc3OSwiaWF0IjoxNzI4NjE5MTc5LCJqdGkiOiI3MTAwMTBjYTkyNTg0NzlkOTMyYWZhYzk1ZmQ1OWMzZSIsInVzZXJfaWQiOjY5OTQzMX0.gPU5EtoQ8eN2peQCfBomcry1lEkxi9YH5Lnwf23J_fc" />
     <option name="easyCodeUserEmail" value="wecoding@126.com" />
     <option name="showEasyCodeConversationList" value="false" />
-    <option name="showGPT35TurboConversationList" value="false" />
     <option name="enableCustomizeGPT35TurboModel" value="true" />
     <option name="customizeGPT35TurboModel" value="gpt-4o-mini" />
   </component>
