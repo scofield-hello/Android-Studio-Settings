@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="com.chuangdun" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="imei" />
         <option value="com.chuangdun" />
         <option value="level:error " />
         <option value="MainActivity" />
@@ -22,7 +23,6 @@
         <option value="Broadcast" />
         <option value="Hand" />
         <option value="KeyCode" />
-        <option value="CallBegin" />
       </list>
     </option>
   </component>
