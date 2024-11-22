@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="test" />
     <option name="nonFavorites">
       <list>
+        <option value="test" />
         <option value="imei" />
         <option value="com.chuangdun" />
         <option value="level:error " />
@@ -22,7 +23,6 @@
         <option value="CrashReport" />
         <option value="Broadcast" />
         <option value="Hand" />
-        <option value="KeyCode" />
       </list>
     </option>
   </component>
