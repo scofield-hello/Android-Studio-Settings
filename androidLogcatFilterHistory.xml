@@ -4,10 +4,10 @@
     <option name="nonFavorites">
       <list>
         <option value="checkProcessName" />
+        <option value="package:mine " />
         <option value="LoginActivity" />
         <option value="level:error " />
         <option value="com.chuangdun." />
-        <option value="package:mine " />
         <option value="13" />
         <option value="hik" />
         <option value="hiksdk" />
