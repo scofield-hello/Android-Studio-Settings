@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="FlutterCommonsPlugin" />
     <option name="nonFavorites">
       <list>
+        <option value="FlutterCommonsPlugin" />
         <option value="checkProcessName" />
         <option value="package:mine " />
         <option value="LoginActivity" />
@@ -22,7 +23,6 @@
         <option value="XfVoicePlugin" />
         <option value="录音" />
         <option value="Bugl" />
-        <option value="Crash" />
       </list>
     </option>
   </component>
