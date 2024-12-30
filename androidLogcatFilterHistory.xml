@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="LoginActivity" />
+    <option name="mostRecentlyUsed" value="checkProcessName" />
     <option name="nonFavorites">
       <list>
+        <option value="checkProcessName" />
         <option value="LoginActivity" />
         <option value="level:error " />
         <option value="com.chuangdun." />
@@ -22,7 +23,6 @@
         <option value="录音" />
         <option value="Bugl" />
         <option value="Crash" />
-        <option value="Repo" />
       </list>
     </option>
   </component>
