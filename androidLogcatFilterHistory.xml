@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="onSurfaceTextureAvailable" />
     <option name="nonFavorites">
       <list>
+        <option value="onSurfaceTextureAvailable" />
         <option value="info.red.virtual" />
         <option value="FlutterCommonsPlugin" />
         <option value="检测是否在模拟器中运行失败" />
@@ -22,7 +23,6 @@
         <option value="Tracker" />
         <option value="Gps" />
         <option value="package~:com.chuangdun.borderkeeper " />
-        <option value="XfVoicePlugin" />
       </list>
     </option>
   </component>
