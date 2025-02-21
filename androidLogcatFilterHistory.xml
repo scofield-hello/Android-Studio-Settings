@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="tag=:DetectActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="tag=:DetectActivity" />
+        <option value="DetectActivity" />
         <option value="打开相机ID" />
         <option value="onSurfaceTextureAvailable" />
         <option value="info.red.virtual" />
@@ -21,8 +23,6 @@
         <option value="com.chuangdun" />
         <option value="MainActivity" />
         <option value="package:mine MainActivity" />
-        <option value="Tracker" />
-        <option value="Gps" />
       </list>
     </option>
   </component>
