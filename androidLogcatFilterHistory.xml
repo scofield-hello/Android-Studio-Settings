@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag=:DetectActivity" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="tag=:DetectActivity" />
         <option value="DetectActivity" />
         <option value="打开相机ID" />
@@ -13,7 +14,6 @@
         <option value="checkProcessName" />
         <option value="package:mine " />
         <option value="LoginActivity" />
-        <option value="level:error " />
         <option value="com.chuangdun." />
         <option value="13" />
         <option value="hik" />
