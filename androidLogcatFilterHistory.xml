@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="tag=:DetectActivity  " />
     <option name="nonFavorites">
       <list>
+        <option value="tag=:DetectActivity  " />
         <option value="level:error " />
         <option value="tag=:DetectActivity" />
         <option value="DetectActivity" />
@@ -22,7 +23,6 @@
         <option value="imei" />
         <option value="com.chuangdun" />
         <option value="MainActivity" />
-        <option value="package:mine MainActivity" />
       </list>
     </option>
   </component>
