@@ -1,0 +1,32 @@
+<application>
+  <component name="com.obiscr.chatgpt.settings.OpenAISettingsState">
+    <option name="apiKey" value="sk-0pOFxJt7JJEmyNnY77CfB09a91034a9a81217683C2Fe41Ce" />
+    <option name="gpt35Model" value="gpt-3.5-turbo" />
+    <option name="enableContext" value="true" />
+    <option name="enableTokenConsumption" value="true" />
+    <option name="enableGPT35StreamResponse" value="true" />
+    <option name="gpt35TurboUrl" value="https://api.wlai.vip/v1/chat/completions" />
+    <option name="enableCustomizeGpt35TurboUrl" value="true" />
+    <option name="gpt35RoleText" value="assistant" />
+    <option name="gpt35TurboExportPath" value="C:\Users\Nickey\intellij-chatgpt\export\gpt-4o-mini" />
+    <contentStatesNoChatGPT>
+      <list>
+        <ChatGPTContentState>
+          <enable>true</enable>
+          <content>EasyCode</content>
+        </ChatGPTContentState>
+        <ChatGPTContentState>
+          <order>1</order>
+          <enable>true</enable>
+          <content>GPT-3.5-Turbo</content>
+        </ChatGPTContentState>
+      </list>
+    </contentStatesNoChatGPT>
+    <option name="easyCodeAccessToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzI4NjIwMDc5LCJpYXQiOjE3Mjg2MDkwMjksImp0aSI6ImIwYzU4Y2FiMGU2MDQ2ZDRhNGFmMzkxMjNkNDZhOWQyIiwidXNlcl9pZCI6Njk5NDMxfQ.6qMbQZf6hov21aOJ3D9d0fViQxNJq2PRW7PbfFyI5qM" />
+    <option name="easyCodeRefreshToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTcyOTgyODc3OSwiaWF0IjoxNzI4NjE5MTc5LCJqdGkiOiI3MTAwMTBjYTkyNTg0NzlkOTMyYWZhYzk1ZmQ1OWMzZSIsInVzZXJfaWQiOjY5OTQzMX0.gPU5EtoQ8eN2peQCfBomcry1lEkxi9YH5Lnwf23J_fc" />
+    <option name="easyCodeUserEmail" value="wecoding@126.com" />
+    <option name="showEasyCodeConversationList" value="false" />
+    <option name="enableCustomizeGPT35TurboModel" value="true" />
+    <option name="customizeGPT35TurboModel" value="gpt-4o-mini" />
+  </component>
+</application>

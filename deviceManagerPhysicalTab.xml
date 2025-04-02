@@ -5,6 +5,39 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="UNXYD23B10208075" />
+          </Key>
+        </key>
+        <name value="HUAWEI BTK-W00" />
+        <target value="Android 12.0" />
+        <api value="androidversion:31:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="CD2030030072" />
+          </Key>
+        </key>
+        <name value="rockchip M70" />
+        <target value="Android 7.1.1" />
+        <api value="androidversion:25:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="93a033e6" />
+          </Key>
+        </key>
+        <name value="Xiaomi MI 8" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="696658d6" />
           </Key>
         </key>
@@ -16,12 +49,12 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="CD2020030028" />
+            <value value="CD20K0000002" />
           </Key>
         </key>
-        <name value="rockchip Z20" />
-        <target value="Android 7.1.1" />
-        <api value="androidversion:25:null:null:true" />
+        <name value="QUALCOMM M80" />
+        <target value="Android 9.0" />
+        <api value="androidversion:28:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -30,9 +63,19 @@
             <value value="JY02K0030009" />
           </Key>
         </key>
-        <name value="QUALCOMM M80" />
-        <target value="Android 9.0" />
-        <api value="androidversion:28:null:null:true" />
+        <name value="Device" />
+        <target value="Android 1.0" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="CD2020030028" />
+          </Key>
+        </key>
+        <name value="rockchip Z20" />
+        <target value="Android 7.1.1" />
+        <api value="androidversion:25:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>

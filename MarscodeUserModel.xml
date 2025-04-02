@@ -1,0 +1,9 @@
+<application>
+  <component name="com.codeverse.userSettings.MarsCodeUserModelSettings">
+    <option name="userModelConfigs">
+      <map>
+        <entry key="2883340110922084" value="{&quot;modelConfig&quot;:{&quot;custom_config&quot;:&quot;{\&quot;apply_file_path\&quot;:false,\&quot;explain\&quot;:\&quot;快速响应\&quot;,\&quot;explain_en\&quot;:\&quot;Quick Response\&quot;,\&quot;is_new_pe\&quot;:true,\&quot;model_type\&quot;:\&quot;chat_model\&quot;}&quot;,&quot;display_name&quot;:&quot;Doubao-1.5-pro&quot;,&quot;is_default&quot;:true,&quot;multimodal&quot;:false,&quot;name&quot;:&quot;seed_m8&quot;},&quot;hasShownGuide&quot;:true}" />
+      </map>
+    </option>
+  </component>
+</application>
