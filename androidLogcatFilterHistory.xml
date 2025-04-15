@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package~:com.chuangdun.borderkeeper " />
         <option value="level:error " />
         <option value="tag=:DetectActivity  " />
@@ -14,7 +15,6 @@
         <option value="FlutterCommonsPlugin" />
         <option value="检测是否在模拟器中运行失败" />
         <option value="checkProcessName" />
-        <option value="package:mine " />
         <option value="LoginActivity" />
         <option value="com.chuangdun." />
         <option value="13" />
