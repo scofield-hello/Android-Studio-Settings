@@ -1,16 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag=:AudioPlayerUtil " />
+    <option name="mostRecentlyUsed" value="tag=:DetectActivity " />
     <option name="nonFavorites">
       <list>
-        <option value="tag=:AudioPlayerUtil " />
         <option value="tag=:DetectActivity " />
+        <option value="package~:com.chuangdun.borderkeeper " />
+        <option value="tag=:AudioPlayerUtil " />
         <option value="tag=:AudioPlayerUtil" />
         <option value="tag=:DetectActivity" />
         <option value="tag=:" />
         <option value="高拍仪" />
         <option value="package:mine " />
-        <option value="package~:com.chuangdun.borderkeeper " />
         <option value="level:error " />
         <option value="tag=:DetectActivity  " />
         <option value="DetectActivity" />
