@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="com.chuangdun" />
     <option name="nonFavorites">
       <list>
+        <option value="com.chuangdun" />
         <option value="tag=:DetectActivity " />
         <option value="package~:com.chuangdun.borderkeeper " />
         <option value="tag=:AudioPlayerUtil " />
@@ -22,7 +23,6 @@
         <option value="checkProcessName" />
         <option value="LoginActivity" />
         <option value="com.chuangdun." />
-        <option value="13" />
       </list>
     </option>
   </component>
