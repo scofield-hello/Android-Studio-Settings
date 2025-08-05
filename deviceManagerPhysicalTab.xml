@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="696658d6" />
+          </Key>
+        </key>
+        <name value="OnePlus PHB110" />
+        <target value="Android API 35" />
+        <api value="androidversion:35:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="UNXYD23B10208075" />
           </Key>
         </key>
@@ -33,17 +44,6 @@
         <name value="Xiaomi MI 8" />
         <target value="Android 10.0" />
         <api value="androidversion:29:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="696658d6" />
-          </Key>
-        </key>
-        <name value="OnePlus PHB110" />
-        <target value="Android API 34" />
-        <api value="androidversion:34:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
