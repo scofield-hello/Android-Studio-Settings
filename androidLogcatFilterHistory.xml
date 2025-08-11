@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="com.chuangdun" />
+    <option name="mostRecentlyUsed" value="AndroidAudioRecorder" />
     <option name="nonFavorites">
       <list>
+        <option value="AndroidAudioRecorder" />
+        <option value="package:mine " />
         <option value="com.chuangdun" />
         <option value="tag=:DetectActivity " />
         <option value="package~:com.chuangdun.borderkeeper " />
@@ -11,7 +13,6 @@
         <option value="tag=:DetectActivity" />
         <option value="tag=:" />
         <option value="高拍仪" />
-        <option value="package:mine " />
         <option value="level:error " />
         <option value="tag=:DetectActivity  " />
         <option value="DetectActivity" />
@@ -22,7 +23,6 @@
         <option value="检测是否在模拟器中运行失败" />
         <option value="checkProcessName" />
         <option value="LoginActivity" />
-        <option value="com.chuangdun." />
       </list>
     </option>
   </component>
