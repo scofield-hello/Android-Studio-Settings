@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="Tracker" />
     <option name="nonFavorites">
       <list>
+        <option value="Tracker" />
         <option value="AndroidAudioRecorder" />
         <option value="package:mine " />
         <option value="com.chuangdun" />
@@ -22,7 +23,6 @@
         <option value="FlutterCommonsPlugin" />
         <option value="检测是否在模拟器中运行失败" />
         <option value="checkProcessName" />
-        <option value="LoginActivity" />
       </list>
     </option>
   </component>
