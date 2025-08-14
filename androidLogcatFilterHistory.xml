@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package~:com.chuangdun.flutter.plugin.flutter_alarm_example " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package~:com.chuangdun.flutter.plugin.flutter_alarm_example" />
         <option value="package~:com.chuangdun.flutter.plugin.flutter_alarm_example " />
         <option value="AlarmReceiver" />
         <option value="Tracker" />
@@ -10,7 +11,6 @@
         <option value="package=:com.chuangdun.borderkeeper" />
         <option value="package=:com.chuangdun.bordkeeper" />
         <option value="AndroidAudioRecorder" />
-        <option value="package:mine " />
         <option value="com.chuangdun" />
         <option value="tag=:DetectActivity " />
         <option value="package~:com.chuangdun.borderkeeper " />
@@ -22,7 +22,6 @@
         <option value="level:error " />
         <option value="tag=:DetectActivity  " />
         <option value="DetectActivity" />
-        <option value="打开相机ID" />
       </list>
     </option>
   </component>
