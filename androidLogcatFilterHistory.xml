@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="AlarmReceiver" />
+    <option name="mostRecentlyUsed" value="package~:com.chuangdun.flutter.plugin.flutter_alarm_example " />
     <option name="nonFavorites">
       <list>
-        <option value="AlarmReceiver" />
         <option value="package~:com.chuangdun.flutter.plugin.flutter_alarm_example " />
+        <option value="AlarmReceiver" />
         <option value="Tracker" />
         <option value="package~:com.chuangdun.borderkeeper" />
         <option value="package=:com.chuangdun.borderkeeper" />
