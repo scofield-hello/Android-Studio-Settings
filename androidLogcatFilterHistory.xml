@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="BOOTCOMPLETE" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="BOOTCOMPLETE" />
         <option value="Tracker" />
         <option value="package=:com.chuangdun.borderkeeper" />
+        <option value="BOOTCOMPLETE" />
         <option value="package~:com.chuangdun.*" />
         <option value="package~:com.chuangdun" />
         <option value="com.chuangdun" />
