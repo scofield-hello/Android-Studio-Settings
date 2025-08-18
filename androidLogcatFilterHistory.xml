@@ -4,6 +4,8 @@
     <option name="nonFavorites">
       <list>
         <option value="tag=:KeepAliveWorker" />
+        <option value="tag=:BootReceiver" />
+        <option value="tag=:KeepAliveService" />
         <option value="package~:com.chuangdun" />
         <option value="package~:com.chuangdun.borderkeeper" />
         <option value="package~:com.chuangdun.borderkeper" />
@@ -21,8 +23,6 @@
         <option value="package:mine " />
         <option value="Tracker" />
         <option value="package=:com.chuangdun.borderkeeper" />
-        <option value="BOOTCOMPLETE" />
-        <option value="package~:com.chuangdun.*" />
       </list>
     </option>
   </component>
