@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="BootReceiver" />
+    <option name="mostRecentlyUsed" value="KeepAliveWork" />
     <option name="nonFavorites">
       <list>
+        <option value="KeepAliveWork" />
+        <option value="package~:net.hzlj.platform.enterprise.jinan" />
+        <option value="net.hzlj.platform.enterprise.jinan" />
         <option value="BootReceiver" />
         <option value="KeepAliveWorker" />
         <option value="KeepAliveService" />
@@ -14,15 +17,12 @@
         <option value="package~:com.chuangdun" />
         <option value="package~:com.chuangdun.borderkeeper" />
         <option value="package~:com.chuangdun.borderkeper" />
-        <option value="package~:net.hzlj.platform.enterprise.jinan" />
-        <option value="KeepAliveWork" />
         <option value="MainApplication" />
         <option value="package=:net.hzlj.platform.enterprise.jinan" />
         <option value="package=:net.hzlj.platform.enterprise.jinan " />
         <option value="level:error " />
         <option value="Boot" />
         <option value="package~:" />
-        <option value="package:mine " />
       </list>
     </option>
   </component>
