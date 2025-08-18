@@ -1,15 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package=:net.hzlj.platform.enterprise.jinan" />
+    <option name="mostRecentlyUsed" value="KeepAliveWorker" />
     <option name="nonFavorites">
       <list>
-        <option value="package=:net.hzlj.platform.enterprise.jinan" />
+        <option value="KeepAliveWorker" />
+        <option value="KeepAliveService" />
         <option value="BootReceiver" />
+        <option value="MainApplication" />
+        <option value="package~:net.hzlj.platform.enterprise.jinan" />
+        <option value="package=:net.hzlj.platform.enterprise.jinan" />
+        <option value="package=:net.hzlj.platform.enterprise.jinan " />
         <option value="level:error " />
         <option value="Boot" />
-        <option value="MainApplication" />
-        <option value="KeepAliveWorker" />
-        <option value="package~:net.hzlj.platform.enterprise.jinan" />
         <option value="package~:" />
         <option value="package:mine " />
         <option value="Tracker" />
@@ -21,8 +23,6 @@
         <option value="com.chuangdun." />
         <option value="net.hzlj.platform.enterprise.jinan" />
         <option value="package~:com.chuangdun.flutter.plugin.flutter_alarm_example" />
-        <option value="package~:com.chuangdun.flutter.plugin.flutter_alarm_example " />
-        <option value="AlarmReceiver" />
       </list>
     </option>
   </component>
