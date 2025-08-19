@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Tracker" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="com.chuangdun.b" />
         <option value="Tracker" />
         <option value="InitialService" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="tag=:Tracker " />
         <option value="tag=:BootReceiver" />
         <option value="BootReceiver" />
-        <option value="位置" />
       </list>
     </option>
   </component>
