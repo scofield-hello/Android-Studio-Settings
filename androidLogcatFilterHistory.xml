@@ -3,6 +3,8 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="推送" />
+        <option value="Notification" />
         <option value="com.chuangdun.b" />
         <option value="Tracker" />
         <option value="InitialService" />
@@ -21,8 +23,6 @@
         <option value=" " />
         <option value="Boot " />
         <option value="tag=:Tracker " />
-        <option value="tag=:BootReceiver" />
-        <option value="BootReceiver" />
       </list>
     </option>
   </component>
