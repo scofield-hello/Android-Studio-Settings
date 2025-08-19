@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="com.chuangdun" />
     <option name="nonFavorites">
       <list>
+        <option value="com.chuangdun" />
+        <option value="Tracker" />
         <option value="level:error " />
         <option value="tag=:Tracker" />
         <option value="tag~:Tracker" />
@@ -12,7 +14,6 @@
         <option value="tag=:Tracker " />
         <option value="tag=:BootReceiver" />
         <option value="BootReceiver" />
-        <option value="Tracker" />
         <option value="位置" />
         <option value="level:warn  " />
         <option value="广播" />
@@ -22,7 +23,6 @@
         <option value="border" />
         <option value="trcker" />
         <option value="package:mine " />
-        <option value="com.chuangdun" />
       </list>
     </option>
   </component>
