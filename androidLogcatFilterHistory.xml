@@ -1,13 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="Tracker" />
     <option name="nonFavorites">
       <list>
-        <option value="com.chuangdun.borderkeeper" />
+        <option value="Tracker" />
         <option value="package:mine " />
+        <option value="com.chuangdun" />
+        <option value="轨迹" />
+        <option value="com.chuangdun.borderkeeper" />
         <option value="package=:com.chuangdun.borderkeeper" />
         <option value="开机" />
-        <option value="Tracker" />
         <option value="XLog" />
         <option value="收到开机完成广播" />
         <option value="BOOT_COM" />
@@ -21,8 +23,6 @@
         <option value="package~:net.hzlj.platform.enterprise.jinan" />
         <option value="net.hzlj.platform.enterprise.jinan" />
         <option value="KeepAliveWorker" />
-        <option value="KeepAliveService" />
-        <option value="package~:net.hzlj.platform.enterprise" />
       </list>
     </option>
   </component>
