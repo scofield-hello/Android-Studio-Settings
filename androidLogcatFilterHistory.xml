@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="tag=:Tracker" />
     <option name="nonFavorites">
       <list>
-        <option value="level:error " />
+        <option value="tag=:Tracker" />
+        <option value="tag~:Tracker" />
+        <option value=" tag=:Tracker" />
+        <option value=" " />
+        <option value="Boot " />
+        <option value="tag=:Tracker " />
+        <option value="tag=:BootReceiver" />
         <option value="BootReceiver" />
+        <option value="Tracker" />
+        <option value="位置" />
+        <option value="level:warn  " />
+        <option value="level:error " />
+        <option value="广播" />
+        <option value="package=:com.chuangdun.borderkeeper" />
+        <option value="轨迹" />
         <option value="BooReceiver" />
         <option value="border" />
-        <option value="Tracker" />
         <option value="trcker" />
         <option value="package:mine " />
         <option value="com.chuangdun" />
-        <option value="轨迹" />
-        <option value="com.chuangdun.borderkeeper" />
-        <option value="package=:com.chuangdun.borderkeeper" />
-        <option value="开机" />
-        <option value="XLog" />
-        <option value="收到开机完成广播" />
-        <option value="BOOT_COM" />
-        <option value="位置" />
-        <option value="经" />
-        <option value="package~:com.chuangdun" />
-        <option value="收到开机完成广播，准备启动轨迹服务" />
-        <option value="准备启动轨迹服务" />
       </list>
     </option>
   </component>
