@@ -1,9 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Tracker" />
+    <option name="mostRecentlyUsed" value="BootReceiver" />
     <option name="nonFavorites">
       <list>
+        <option value="BootReceiver" />
         <option value="Tracker" />
+        <option value="trcker" />
+        <option value="level:error " />
         <option value="package:mine " />
         <option value="com.chuangdun" />
         <option value="轨迹" />
@@ -18,11 +21,8 @@
         <option value="package~:com.chuangdun" />
         <option value="收到开机完成广播，准备启动轨迹服务" />
         <option value="准备启动轨迹服务" />
-        <option value="BootReceiver" />
         <option value="KeepAliveWork" />
         <option value="package~:net.hzlj.platform.enterprise.jinan" />
-        <option value="net.hzlj.platform.enterprise.jinan" />
-        <option value="KeepAliveWorker" />
       </list>
     </option>
   </component>
