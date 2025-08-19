@@ -4,6 +4,8 @@
     <option name="nonFavorites">
       <list>
         <option value="BootReceiver" />
+        <option value="BooReceiver" />
+        <option value="border" />
         <option value="Tracker" />
         <option value="trcker" />
         <option value="level:error " />
@@ -21,8 +23,6 @@
         <option value="package~:com.chuangdun" />
         <option value="收到开机完成广播，准备启动轨迹服务" />
         <option value="准备启动轨迹服务" />
-        <option value="KeepAliveWork" />
-        <option value="package~:net.hzlj.platform.enterprise.jinan" />
       </list>
     </option>
   </component>
