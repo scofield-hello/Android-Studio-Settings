@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="BootReceiver" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="BootReceiver" />
         <option value="BooReceiver" />
         <option value="border" />
         <option value="Tracker" />
         <option value="trcker" />
-        <option value="level:error " />
         <option value="package:mine " />
         <option value="com.chuangdun" />
         <option value="轨迹" />
