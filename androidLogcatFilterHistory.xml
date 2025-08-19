@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="InitialService" />
+    <option name="mostRecentlyUsed" value="Tracker" />
     <option name="nonFavorites">
       <list>
-        <option value="InitialService" />
         <option value="Tracker" />
+        <option value="InitialService" />
         <option value="package:mine " />
         <option value="level:error " />
         <option value="InitService" />
