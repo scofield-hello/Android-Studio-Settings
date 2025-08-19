@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Tracker" />
+    <option name="mostRecentlyUsed" value="InitialService" />
     <option name="nonFavorites">
       <list>
-        <option value="Tracker" />
         <option value="InitialService" />
+        <option value="Tracker" />
+        <option value="package:mine " />
         <option value="level:error " />
         <option value="InitService" />
         <option value="tag=:Tacker" />
-        <option value="package:mine " />
         <option value="Tracke" />
         <option value="tag=:MyApplication" />
         <option value="Application初始化异常" />
