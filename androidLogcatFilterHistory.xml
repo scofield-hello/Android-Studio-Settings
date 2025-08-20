@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="InitialService" />
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
         <option value="InitialService" />
+        <option value="Aliyun" />
         <option value="Heatbeat" />
         <option value="推送" />
         <option value="Notification" />
@@ -22,7 +23,6 @@
         <option value="tag~:Tracker" />
         <option value=" tag=:Tracker" />
         <option value=" " />
-        <option value="Boot " />
       </list>
     </option>
   </component>
