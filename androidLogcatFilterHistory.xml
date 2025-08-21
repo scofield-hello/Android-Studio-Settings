@@ -1,12 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="LocationTracker" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="LocationTracker" />
         <option value="level:debug " />
         <option value="tag=:Heatbeat" />
-        <option value="package:mine " />
         <option value="InitialService" />
         <option value="Aliyun" />
         <option value="Heatbeat" />
