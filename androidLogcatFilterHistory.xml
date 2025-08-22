@@ -1,13 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="level:error " />
         <option value="Tracker" />
         <option value="InitialService" />
         <option value="闹钟" />
-        <option value="package:mine " />
         <option value="LocationTracker" />
         <option value="level:debug " />
         <option value="tag=:Heatbeat" />
