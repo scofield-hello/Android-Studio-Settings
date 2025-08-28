@@ -1,5 +1,6 @@
 <application>
   <component name="com.codeverse.userSettings.MarsCodeAppSettingsState">
     <option name="localeOverride" value="cn" />
+    <option name="remoteConfigSettings" value="{&quot;totalDebounce&quot;:0,&quot;contextFetchDebounce&quot;:0}" />
   </component>
 </application>
