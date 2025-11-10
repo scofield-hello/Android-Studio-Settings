@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="zoom" />
     <option name="nonFavorites">
       <list>
+        <option value="zoom" />
         <option value="package:mine get bitmap width" />
         <option value="package:mine " />
         <option value="level:error " />
@@ -22,7 +23,6 @@
         <option value="Tracke" />
         <option value="tag=:MyApplication" />
         <option value="Application初始化异常" />
-        <option value="MyApplication" />
       </list>
     </option>
   </component>
