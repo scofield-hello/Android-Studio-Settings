@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="initCamera: rotation" />
     <option name="nonFavorites">
       <list>
+        <option value="initCamera: rotation" />
         <option value="package:mine " />
         <option value="zoom" />
         <option value="package:mine get bitmap width" />
@@ -22,7 +23,6 @@
         <option value="tag=:Tacker" />
         <option value="Tracke" />
         <option value="tag=:MyApplication" />
-        <option value="Application初始化异常" />
       </list>
     </option>
   </component>
