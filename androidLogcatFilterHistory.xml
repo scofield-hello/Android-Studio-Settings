@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="onMessage" />
         <option value="package:mine " />
         <option value="initCamera: rotation" />
         <option value="zoom" />
@@ -22,7 +23,6 @@
         <option value="InitService" />
         <option value="tag=:Tacker" />
         <option value="Tracke" />
-        <option value="tag=:MyApplication" />
       </list>
     </option>
   </component>
