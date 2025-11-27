@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="setPreviewSize1" />
         <option value="onMessage" />
         <option value="package:mine " />
         <option value="initCamera: rotation" />
@@ -22,7 +23,6 @@
         <option value="com.chuangdun.b" />
         <option value="InitService" />
         <option value="tag=:Tacker" />
-        <option value="Tracke" />
       </list>
     </option>
   </component>
