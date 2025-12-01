@@ -3,8 +3,9 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="setPreviewSize1" />
         <option value="onMessage" />
+        <option value="WebSocketManager" />
+        <option value="setPreviewSize1" />
         <option value="package:mine " />
         <option value="initCamera: rotation" />
         <option value="zoom" />
@@ -22,7 +23,6 @@
         <option value="Notification" />
         <option value="com.chuangdun.b" />
         <option value="InitService" />
-        <option value="tag=:Tacker" />
       </list>
     </option>
   </component>
