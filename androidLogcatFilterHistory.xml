@@ -3,10 +3,10 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="onMessage" />
         <option value="WebSocketManager" />
         <option value="setPreviewSize1" />
-        <option value="package:mine " />
         <option value="initCamera: rotation" />
         <option value="zoom" />
         <option value="package:mine get bitmap width" />
