@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="/proc" />
     <option name="nonFavorites">
       <list>
+        <option value="/proc" />
         <option value="MainActivity" />
         <option value="package:mine " />
         <option value="onMessage" />
@@ -22,7 +23,6 @@
         <option value="Heatbeat" />
         <option value="推送" />
         <option value="Notification" />
-        <option value="com.chuangdun.b" />
       </list>
     </option>
   </component>
