@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="MainActivity" />
         <option value="package:mine " />
         <option value="onMessage" />
         <option value="WebSocketManager" />
@@ -22,7 +23,6 @@
         <option value="推送" />
         <option value="Notification" />
         <option value="com.chuangdun.b" />
-        <option value="InitService" />
       </list>
     </option>
   </component>
