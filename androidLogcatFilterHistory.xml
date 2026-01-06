@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ubox" />
+    <option name="mostRecentlyUsed" value="Main" />
     <option name="nonFavorites">
       <list>
+        <option value="Main" />
         <option value="ubox" />
         <option value="tag=:ubox " />
         <option value="MainActivity" />
@@ -22,7 +23,6 @@
         <option value="level:debug " />
         <option value="tag=:Heatbeat" />
         <option value="Aliyun" />
-        <option value="Heatbeat" />
       </list>
     </option>
   </component>
