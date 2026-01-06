@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="ubox" />
     <option name="nonFavorites">
       <list>
-        <option value="tag=:ubox " />
         <option value="ubox" />
+        <option value="tag=:ubox " />
         <option value="MainActivity" />
         <option value="/proc" />
         <option value="package:mine " />
