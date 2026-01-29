@@ -1,12 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="SmartCallDetector" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="SmartCallDetector" />
         <option value="tag:SmartCallDetector" />
         <option value="CallToneDetector" />
-        <option value="package:mine " />
         <option value="ubox" />
         <option value="Main" />
         <option value="tag=:ubox " />
