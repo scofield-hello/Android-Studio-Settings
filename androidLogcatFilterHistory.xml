@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:SmartCallDetector" />
+    <option name="mostRecentlyUsed" value="SmartCallDetector" />
     <option name="nonFavorites">
       <list>
+        <option value="SmartCallDetector" />
         <option value="tag:SmartCallDetector" />
         <option value="CallToneDetector" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="InitialService" />
         <option value="闹钟" />
         <option value="LocationTracker" />
-        <option value="level:debug " />
       </list>
     </option>
   </component>
