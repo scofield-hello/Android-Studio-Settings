@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="tag:SmartCallDetector" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:SmartCallDetector" />
         <option value="CallToneDetector" />
         <option value="package:mine " />
         <option value="ubox" />
@@ -22,7 +23,6 @@
         <option value="闹钟" />
         <option value="LocationTracker" />
         <option value="level:debug " />
-        <option value="tag=:Heatbeat" />
       </list>
     </option>
   </component>
