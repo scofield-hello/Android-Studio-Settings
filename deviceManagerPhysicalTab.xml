@@ -19,7 +19,7 @@
             <value value="696658d6" />
           </Key>
         </key>
-        <name value="Device" />
+        <name value="OnePlus PHB110" />
         <target value="Android API 36" />
         <api value="androidversion:36:null:null:true" />
       </PhysicalDevice>
