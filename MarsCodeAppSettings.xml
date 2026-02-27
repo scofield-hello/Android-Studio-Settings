@@ -1,7 +1,6 @@
 <application>
   <component name="com.codeverse.userSettings.MarsCodeAppSettingsState">
     <option name="addToChatPinned" value="false" />
-    <option name="enableAhaIPC" value="false" />
     <option name="localeOverride" value="cn" />
     <option name="remoteConfigSettings" value="{&quot;totalDebounce&quot;:35,&quot;contextFetchDebounce&quot;:15}" />
   </component>
