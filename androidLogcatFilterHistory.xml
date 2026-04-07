@@ -3,6 +3,8 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="BootCompletedReceiver" />
+        <option value="TaskExecutorService" />
         <option value="package:mine" />
         <option value="package:mine TTS" />
         <option value="package:mine " />
@@ -21,8 +23,6 @@
         <option value="zoom" />
         <option value="package:mine get bitmap width" />
         <option value="level:error " />
-        <option value="Tracker" />
-        <option value="InitialService" />
       </list>
     </option>
   </component>
