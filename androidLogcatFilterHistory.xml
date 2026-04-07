@@ -4,10 +4,10 @@
     <option name="nonFavorites">
       <list>
         <option value="BootCompletedReceiver" />
+        <option value="package:mine " />
         <option value="TaskExecutorService" />
         <option value="package:mine" />
         <option value="package:mine TTS" />
-        <option value="package:mine " />
         <option value="SmartCallDetector" />
         <option value="tag:SmartCallDetector" />
         <option value="CallToneDetector" />
