@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="com.chuangdun.borderkeeper" />
+    <option name="mostRecentlyUsed" value="Location" />
     <option name="nonFavorites">
       <list>
+        <option value="Location" />
         <option value="com.chuangdun.borderkeeper" />
         <option value="BootCompletedReceiver" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="setPreviewSize1" />
         <option value="initCamera: rotation" />
         <option value="zoom" />
-        <option value="package:mine get bitmap width" />
       </list>
     </option>
   </component>
