@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="录音数据，channel: " />
     <option name="nonFavorites">
       <list>
+        <option value="录音数据，channel: " />
+        <option value="录音数据，channel: 0," />
+        <option value="录音数据" />
         <option value="com.chuangdun.borderkeeper" />
         <option value="Location" />
         <option value="BootCompletedReceiver" />
@@ -20,9 +23,6 @@
         <option value="/proc" />
         <option value="onMessage" />
         <option value="WebSocketManager" />
-        <option value="setPreviewSize1" />
-        <option value="initCamera: rotation" />
-        <option value="zoom" />
       </list>
     </option>
   </component>
