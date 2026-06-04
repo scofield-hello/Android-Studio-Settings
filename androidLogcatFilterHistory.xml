@@ -3,6 +3,8 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="嘉" />
+        <option value="加" />
         <option value="录音数据，channel: " />
         <option value="录音数据，channel: 0," />
         <option value="录音数据" />
@@ -21,8 +23,6 @@
         <option value="tag=:ubox " />
         <option value="MainActivity" />
         <option value="/proc" />
-        <option value="onMessage" />
-        <option value="WebSocketManager" />
       </list>
     </option>
   </component>
